@@ -37,7 +37,7 @@ sudo apt install docker.io
 To check if docker is running 
 
 ```bash
-sudo systemtcl status checker
+sudo systemctl status docker
 ```
 Procedd if status is active
 
