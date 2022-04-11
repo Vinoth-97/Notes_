@@ -7,13 +7,14 @@ Notes_App is place where to save the notes for future purpose with CRUD operatio
 
 *Upgrading the defaults http credentials to HTTPS using cretbot
 
-# Tools used in this Project
+# Tools/Technologies used in this Project
 1. Visual Studio Code for Python source code editing
 2. Github for Cloning repository in cloud vm instance
 3. Goocle Cloud platform - COMPUTE ENGINE- Creating a VM instance to run our container
 4. Docker for the Containerization of our application to run on multiple devices
 5. Python installed on local machine.
 6. nginx to install web server
+7. SQLAlchemy
 ## Running the Cloud instance
 
 As of now, for demonstation purpose you can see the live site at
@@ -112,4 +113,7 @@ Run app.py when the container launches
 CMD [ "python3", "main.py", "--host=0.0.0.0"]
 
 ### FUTURE ENHANCEMENTS
-We have developed a python code to call an external restful API called
+We have developed a python code to call an external restful API called https://www.tvmaze.com/api, In future we add this External api to our python program to make notes app more interactive and also uselful for finding TV show names from their titles.
+
+Using SQL Alchemy we can call an cloud database to store even more data and increase reliability and availability.
+
