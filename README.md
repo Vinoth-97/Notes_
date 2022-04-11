@@ -1,5 +1,5 @@
 ### NOTES_APP
-Notes_App is place where to save the notes for future purpose with CRUD operations posted via GCP
+Notes_App is place where to save the notes for future purpose with CRUD operations hosted via GCP
 
 *The main aim of this project is to demonstrate **CRUD Rest API** operations using python flask.
 
