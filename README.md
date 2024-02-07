@@ -10,7 +10,7 @@ Notes_App is place where to save the notes for future purpose with CRUD operatio
 # Tools/Technologies used in this Project
 1. Visual Studio Code for Python source code editing
 2. Github for Cloning repository in cloud vm instance
-3. Goocle Cloud platform - COMPUTE ENGINE- Creating a VM instance to run our container
+3. Google Cloud platform - COMPUTE ENGINE- Creating a VM instance to run our container
 4. Docker for the Containerization of our application to run on multiple devices
 5. Python installed on local machine.
 6. nginx to install web server
